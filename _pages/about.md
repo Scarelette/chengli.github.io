@@ -25,7 +25,7 @@ Publication
   <br>**<u>Cheng Li</u>**, Damien Teney, Linyi Yang, Qingsong Wen, Xing Xie, Jindong Wang. [[PDF](https://arxiv.org/pdf/2405.15145)]
   <br>[Media coverage: [MIT Technology Review](https://www.mittrchina.com/news/detail/13596), [Vitalbridge](https://mp.weixin.qq.com/s/jHKdadr6ea_3x3AHHx6qFQ)]
 - [**IJCAI 2024**] NegativePrompt: Leveraging Psychology for Large Language Models Enhancement via Negative Emotional Stimuli.
-  <br>Xu Wang*, **<u>Cheng Li</u>***, Yi Chang, Jindong Wang, Yuan Wu. [[PDF](https://arxiv.org/pdf/2405.02814)]  *: Co-first Authors
+  <br>Xu Wang\*, **<u>Cheng Li</u>**\*, Yi Chang, Jindong Wang, Yuan Wu. [[PDF](https://arxiv.org/pdf/2405.02814)]  *: Co-first Authors
 - [Arxiv 2024] MentalArena: Self-play Training of Language Models for Diagnosis and Treatment of Mental Health Disorders.
   <br>**<u>Cheng Li</u>**, May Fung, Qingyun Wang, Chi Han, Manling Li, Jindong Wang, Heng Ji. [[PDF](https://arxiv.org/pdf/2410.06845)]
 - [**LLM@IJCAI'23**] Large language models understand and can be enhanced by emotional stimuli.
