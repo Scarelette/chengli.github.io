@@ -12,7 +12,7 @@ title                    : "Cheng Li"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://github.com/Scarelette/chengli.github.io/blob/master # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://github.com/Scarelette/chengli.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chengli.github.io"
 
@@ -22,7 +22,7 @@ repository               : "chengli.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "cl.jpeg"
+  avatar           : "cl_resized2.jpeg"
   name             : "Cheng Li"
   pronouns         : "she/her"  
   # bio              : ""
