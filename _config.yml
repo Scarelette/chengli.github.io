@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile4.png"
+  avatar           : "image-alignment-580x300.jpg"
   name             : "Cheng Li"
   pronouns         : "she/her"  
   # bio              : ""
